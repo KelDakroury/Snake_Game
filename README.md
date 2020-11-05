@@ -1,5 +1,5 @@
 # Snakes_Game
-Create snakes game using java.
+
 
 Project description:
 
